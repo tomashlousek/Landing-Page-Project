@@ -1,2 +1,5 @@
 # Landing-Page-Project
 Landing page project with Foundations course from The Odin Project. My first try on designing an imaginary website.
+This is my first programming project. After taking some part of Foundations course on The Odin Project, I was able to do my first page. Using HTML and CSS basics, that I've learned I managed to somewhat do it. It was tough for me, but with around 2 days of intensive programming and endless google searches, I managed to get it done. The final resault isn't perfect, but good enough for me right now, with future changes to be done. 
+I must say, that I've learned a lot of things during this project, and it made me even more interested in the concepts of HTML and CSS. I will continue learning them and will add JavaScript knowledge for future projects.
+Thank you for reading. 

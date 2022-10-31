@@ -1,0 +1,169 @@
+
+.first-part {
+    background-color: #1F2937;
+    color: aliceblue;
+}
+
+.navfirst {
+    display: flex;
+    margin: auto;
+    width: 70%;
+    padding: 20px 0px;
+    justify-content: space-between;
+}
+
+/* first part of page */
+
+.hero-logo {
+    font-size: 24px;
+}
+
+.hero-div {
+    display: flex;
+    margin: auto;
+    width: 80%;
+    height: 500px;
+    justify-content: space-between;
+    align-items: center;
+    margin-left: 300px;
+}
+
+.hero-manin-div {
+    width: 35%;
+    margin: 20px;
+    margin-left: 0px;
+}
+
+.signup-btn {
+    background-color: rgb(18, 24, 217);
+    border: 1px solid white;
+    border-radius: 7px;
+    color: aliceblue;
+    font-size: 16px;
+    font-weight: bold;
+    padding: 10px 25px;
+}
+
+.login-btn {
+    background-color: crimson;
+    border: 1px solid white;
+    border-radius: 7px;
+    color: white;
+    font-size: 16px;
+    font-weight: bold;
+    padding: 10px 25px;
+}
+
+
+.nadpis {
+    display: flex;
+    justify-content: center;
+    padding: 16px 32px;
+    text-decoration: underline;
+    font-size: 36px;
+    font-weight: bold;
+    color: #1F2937;
+}
+
+/* Second Part of page */
+
+.container1 {
+    display: flex;
+    margin: auto;
+    flex-direction: column;
+    align-content: space-around;
+    justify-content: space-evenly;
+    width: 70%;
+    height: 500px;
+}
+
+.container1 .pictures {
+    display: flex;
+    justify-content: space-around;
+}
+
+.container1 .nadpis {
+    margin: 0px auto;
+}
+
+.illustration-img {
+    width: 200px;
+}
+
+/* Third part of page */
+
+.insp-quote {
+    background-color: #E5E7EB;
+    display: flex;
+    justify-content: center;
+    padding: 150px;
+}
+
+.quote1 {
+    font-size: 36px;
+    font-style: light italic;
+    color: #1F2937;
+}
+
+.quote2 {
+    padding-top: 100px;
+    font-size: 36px;
+    font-style: light italic;
+    color: #1F2937;
+}
+
+/* Fourth part of page */
+
+.blue-div {
+    background-color: #3883f6;
+    border-radius: 10px;
+}
+
+.blue-div div strong {
+    color: white;
+    font-size: 24px;
+}
+
+.blue-div div p {
+    color: white;
+    font-size: 16px;
+}
+
+.blue-div {
+    width: 70%;
+    height: 300px;
+    margin: auto;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+.blue-div div {
+    display: flex;
+}
+.blue-div div .signup-div {
+    display: flex;
+    flex-direction: column;
+}
+.blue-div div div {
+    margin: 50px;
+}
+
+.signup-div {
+    display: flex;
+    flex-direction: column;
+}
+
+/* Fifth part of page */
+
+footer {
+    height: 75px;
+    display: flex;
+    justify-content: center;
+    align-items: flex-end;
+    background-color: #1F2937;
+    color: aliceblue;
+  }
+  footer span {
+    padding-bottom: 20px;
+  }
